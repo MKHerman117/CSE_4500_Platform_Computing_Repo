@@ -23,8 +23,8 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="About me Screenshot1.png"/>
-<img src="About me Screenshot2.png"/>
+<img src="C:\Users\mikez\Desktop\CSE 4500\Images\Halo image.jpg" alt="Halo"/>
+<img src="C:\Users\mikez\Desktop\CSE 4500\Images\Fallout_4_cover_art.jpg" alt="Fallout 4"/>
 
 
 
