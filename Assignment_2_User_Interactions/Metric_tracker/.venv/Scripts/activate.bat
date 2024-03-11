@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\mikez\Desktop\CSE 4500\Web Tracker\.venv
+set VIRTUAL_ENV=C:\Users\mikez\Desktop\CSE 4500\CSE_4500_Platform_Computing_Repo\Assignment_2_User_Interactions\Metric_tracker\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
