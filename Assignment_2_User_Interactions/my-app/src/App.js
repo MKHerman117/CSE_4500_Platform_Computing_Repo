@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -54,21 +54,7 @@ function App() {
   <a href="https://github.com/MKHerman117/CSE_4500_Platform_Computing_Repo/blob/main/README.md">Github Link</a>
   <a href="https://github.com/MKHerman117/CSE_4500_Platform_Computing_Repo/blob/main/README.md"><button>Click Me</button>
   </a></div>
-
-
         </div>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Sayoonara
-        </a>
       </header>
     </div>
   );
