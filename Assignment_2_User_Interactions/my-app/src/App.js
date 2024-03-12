@@ -51,8 +51,8 @@ function App() {
   <br />
   <hr />
 
-  <a href="https://github.com/MKHerman117/CSE_4500_Platform_Computing_Repo/blob/main/README.md">Github Link</a>
-  <a href="https://github.com/MKHerman117/CSE_4500_Platform_Computing_Repo/blob/main/README.md"><button>Click Me</button>
+  <a href="https://github.com/MKHerman117/CSE_4500_Platform_Computing_Repo/blob/main/Assignment_1_About_Me_Page/README.md">Github Link</a>
+  <a href="https://github.com/MKHerman117/CSE_4500_Platform_Computing_Repo/blob/main/Assignment_1_About_Me_Page/README.md"><button>Click Me</button>
   </a></div>
         </div>
       </header>

@@ -13,6 +13,7 @@ def writeToCSV(filename : str, metrics : dict):
 
         #Write the data row
         writer.writerow(metrics)     
+
 def main():
 # Initialize browser
     driver = webdriver.Chrome()
@@ -22,7 +23,7 @@ def main():
 
     #Initialize variables
     metrics = collections.defaultdict(list) #{Presence Time (Seconds) or Scrolling (Pixels) : Presence Time or Scroll}
-    SAMPLE_SIZE = 2
+    SAMPLE_SIZE = 5
     count = 0
     start_time = time.time()
     while count < SAMPLE_SIZE:             
@@ -45,7 +46,7 @@ def main():
         time.sleep(2) 
 
     # Track clicks   
-    buttons = driver.find_elements_by_tag_name("button")
+    buttons = driver.find_elements(By.TAG_NAME,"button")
     num_clicks = 0
 
     for button in buttons:
