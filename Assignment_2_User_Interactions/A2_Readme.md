@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="CSE_4500_Platform_Computing_Repo\Assignment_2_User_Interactions\Images\AboutMe on React Screenshot.png" width='' alt="About Me on React" />
+<img src="Images\AboutMe on React Screenshot.png" width='' alt="About Me on React" />
 <img src="CSE_4500_Platform_Computing_Repo\Assignment_2_User_Interactions\Images\Assignment2 Question3 Screenshot .png" alt="Screenshot of question 3"/>
 
 ## Notes:
