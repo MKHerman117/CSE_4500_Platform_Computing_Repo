@@ -4,7 +4,8 @@ import collections
 import csv 
 
 def findKeyword(driver, keyword)->bool:
-    return keyword in driver.page_source   
+    print(driver.page_source.lower())
+    return keyword.lower() in driver.page_source.lower()
 
 def main():
 # Initialize browser
@@ -14,7 +15,7 @@ def main():
     driver.get("http://localhost:3000/")
     reward_time = 10
     total_reward_time = 0
-    keyword = "student"
+    keyword = "Michael"
     if findKeyword(driver, keyword):
         total_reward_time += reward_time
         time.sleep(reward_time)
@@ -22,7 +23,5 @@ def main():
     driver.quit()
     print("Present Time:", total_reward_time)
     
-    
-
 if __name__ == "__main__":
     main()    
