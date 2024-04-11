@@ -30,8 +30,8 @@ function App() {
     <li>Skyrim</li>
     <li>Fallout 4</li>
     <li>Legend of Zelda Breath of the Wild and Tears of the Kingdom</li>
-    {/* <img src="Images\Fallout_4_cover_art.jpg" alt="Fallout Cover" /> */}
-    {/* <img src="Images\Halo image.jpg" alt="Halo Cover" /> */}
+    <img src="Images\Fallout_4_cover_art.jpg" alt="Fallout Cover" />
+    <img src="Images\Halo image.jpg" alt="Halo Cover" />
   </ul>
 
   <hr />
@@ -47,7 +47,7 @@ function App() {
   <li>Chick Fil-a </li>
   <li>Canes</li>
   <li>In &amp; Out</li>
-  {/* <img src="Images\Taco Bell.png" alt="TacoBell logo"/> */}
+  <img src="Images\Taco Bell.png" alt="TacoBell logo"/>
 
   <br />
   <hr />
