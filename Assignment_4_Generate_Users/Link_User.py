@@ -57,7 +57,7 @@ def main():
     driver = webdriver.Chrome()
     # Navigate to your website 
     driver.get("http://localhost:3000/")
-    reward_time = 10
+    reward_time = 1
     total_reward_time = userAction("KEYWORD", driver, reward_time, ["Michael", "Herman"])
     tag_name = ["img"]
     total_reward_time += userAction("IMAGE", driver, reward_time, tag_name)  
