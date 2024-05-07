@@ -52,7 +52,7 @@ def main():
     # Navigate to your website 
     driver.get("http://localhost:3000/")
     reward_time = 10
-    total_reward_time = userAction("KEYWORD", driver, reward_time, ["Michael", "Herman"])
+    total_reward_time = userAction("KEYWORD", driver, reward_time, ["Guatemala", "Spanish", "Japanese"])
     tag_name = ["img"]
     total_reward_time += userAction("IMAGE", driver, reward_time, tag_name)  
    # clickLink(driver)

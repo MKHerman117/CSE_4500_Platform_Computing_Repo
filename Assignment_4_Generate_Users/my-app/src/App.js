@@ -11,9 +11,10 @@ function App() {
         {/*Title with three paragraphs underneath*/ }
         <div>
   <h1 style={{backgroundColor: 'rgb(252, 1, 1)'}}>  </h1>
-  <p> My name is  and this is my About Me page. 
+  <p> My name is Michael Herman and this is my About Me page. 
     <br />
-    A little fun fact about me is that I was born in Guatemala. I can speak English and Spanish. Some other languages that I have learned was French but I don't remember that much any more. I was learning Japanese this semester but had to drop it because of my other classes and their workload but it was fun.  
+    A little fun fact about me is that I was born in Guatemala. I came to the US when I was about 4 years old. Me and my family usually try to go back to Guatemala to vist family every year during the summer.  I can speak English and Spanish. Some other languages that I have learned was French but I don't remember that much any more. I was learning Japanese this semester but had to drop it because of my other classes and their workload but it was fun. 
+    I also like to play video games. I made a list of some of the video games that I like to play. I also made a list of some places that I like to eat at. I'm a Christian. I also play a musical instrument. I play the drums. I'm part of the worship team at my church and I play the drums also whenever its my turn to play.   
   </p>
 
   <br />
@@ -30,8 +31,8 @@ function App() {
     <li>Skyrim</li>
     <li>Fallout 4</li>
     <li>Legend of Zelda Breath of the Wild and Tears of the Kingdom</li>
-    <img src="Images\Fallout_4_cover_art.jpg" alt="Fallout Cover" />
-    <img src="Images\Halo image.jpg" alt="Halo Cover" />
+    <img src="Images\Halo image.jpg" alt="Fallout Cover" /> 
+    <img src="Images\Halo image.jpg" alt="Halo Cover" /> 
   </ul>
 
   <hr />
